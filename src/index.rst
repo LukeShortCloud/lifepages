@@ -5,6 +5,12 @@ Welcome to Life Pages!
 
 .. toctree::
    :maxdepth: 1
+   :caption: Games
+
+   games/index.rst
+
+.. toctree::
+   :maxdepth: 1
    :caption: Health
 
    health/index.rst
