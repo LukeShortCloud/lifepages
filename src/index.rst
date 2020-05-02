@@ -14,3 +14,9 @@ Welcome to Life Pages!
    :caption: Health
 
    health/index.rst
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Work
+
+   work/index.rst
