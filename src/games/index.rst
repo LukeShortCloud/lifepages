@@ -3,3 +3,4 @@
    :caption: Games
 
    tabletop.rst
+   video.rst
