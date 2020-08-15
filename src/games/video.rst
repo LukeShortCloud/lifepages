@@ -19,6 +19,22 @@ These are common strategies that apply to most RTS games:
 -  Learn the macro (simple and big concept) strategies before learning the micro (hard and small concept) strategies.
 -  Learn keyboard shortcuts to save time.
 
+Sandbox
+-------
+
+Minecraft
+~~~~~~~~~
+
+Server (Self-Hosted)
+^^^^^^^^^^^^^^^^^^^^
+
+Depending on the use-case of the server, different Minecraft servers are recommended.
+
+-  Vanilla = `SpigotMC <https://www.spigotmc.org/>`__
+-  Plugins = SpigotMC
+-  Mods = `Forge <https://forums.minecraftforge.net/>`__
+-  Raspberry Pi = `Cuberite <https://cuberite.org/>`__
+
 History
 -------
 
