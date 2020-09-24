@@ -32,7 +32,11 @@ Depending on the use-case of the server, different Minecraft servers are recomme
 
 -  Vanilla = `SpigotMC <https://www.spigotmc.org/>`__
 -  Plugins = SpigotMC
--  Mods = `Forge <https://forums.minecraftforge.net/>`__
+-  Mods, game-changing:
+
+    -  <= Minecraft 1.13 = `Forge <https://forums.minecraftforge.net/>`__
+    -  >= Minecraft 1.14 = `Fabric <https://fabricmc.net/>`__
+
 -  Raspberry Pi = `Cuberite <https://cuberite.org/>`__
 
 History
