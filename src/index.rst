@@ -23,6 +23,12 @@ Welcome to Life Pages!
 
 .. toctree::
    :maxdepth: 1
+   :caption: Finance
+
+   finance/index.rst
+
+.. toctree::
+   :maxdepth: 1
    :caption: Work
 
    work/index.rst
