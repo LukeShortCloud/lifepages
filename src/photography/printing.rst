@@ -3,6 +3,16 @@ Printing
 
 .. contents:: Table of Contents
 
+Pixel Density
+-------------
+
+Pixels per inch (PPI) or per centimeter (PPCM) is the amount of pixels in every square inch of a digital image. The higher the PPI, the better the quality of the photo. When printing, the PPI is converted to dots per inch (DPI) which is the amount of ink dots in every square inch of a print. Ideally, the PPI should be 300 or more as most printers support at least 300 DPI. Depending on the type of printer, the supported DPI will be different:
+
+-  Inkjet printer = 300-720 DPI
+-  Laser printer = 600-2400 DPI
+
+[2]
+
 Cost
 ----
 
@@ -27,3 +37,4 @@ Bibliography
 ------------
 
 1. "Printing Costs: How To Accurately Calculate Your Printing Cost Per Page." Toner Buzz. August 20, 2019. Accessed August 16, 2020.  https://www.tonerbuzz.com/blog/printing-costs-how-to-accurately-calculate-your-printing-cost-per-page/
+2. "PPI vs. DPI: Demystifying the World of Online and Print Resolution." Shutterstock Blog. March 5, 2018. Accessed October 4, 2020. https://www.shutterstock.com/blog/ppi-vs-dpi-resolution-guide
