@@ -13,6 +13,11 @@ Pixels per inch (PPI) or per centimeter (PPCM) is the amount of pixels in every 
 
 [2]
 
+Bleed Area
+----------
+
+The "bleed" area of an image is an extra 0.125 inches of space around an image that can be safely cut without losing anything important. This is useful when an image is printed on a paper that is bigger than itself so it can be properly cut down. The bleed area should be an extension of the original image (not a colored border nor anything else that would be added). [3]
+
 Cost
 ----
 
@@ -38,3 +43,4 @@ Bibliography
 
 1. "Printing Costs: How To Accurately Calculate Your Printing Cost Per Page." Toner Buzz. August 20, 2019. Accessed August 16, 2020.  https://www.tonerbuzz.com/blog/printing-costs-how-to-accurately-calculate-your-printing-cost-per-page/
 2. "PPI vs. DPI: Demystifying the World of Online and Print Resolution." Shutterstock Blog. March 5, 2018. Accessed October 4, 2020. https://www.shutterstock.com/blog/ppi-vs-dpi-resolution-guide
+3. "What Is Full Bleed Printing??" Printingcenterusa.com. September 16, 2019. Accessed October 4, 2020. https://web.printingcenterusa.com/blog/what-is-full-bleed-printing
