@@ -6,7 +6,7 @@ Politics
 Comparison of Parties
 ---------------------
 
-The two most popular political parties in the U.S.A. are Democrats (Liberals) and Republicans (Conservatives). These are the stances for each topic for each party. Not all politicans agree with their own party on every topic. [1]
+The two most popular political parties in the U.S.A. are Democrats/Liberals/Left-Wing and Republicans/Conservatives/Right-Wing. These are the stances for each topic for each party. Not all politicans agree with their own party on every topic. [1]
 
 .. csv-table::
    :header: Topic, Democrats, Republicans
