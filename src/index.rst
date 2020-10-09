@@ -11,21 +11,27 @@ Welcome to Life Pages!
 
 .. toctree::
    :maxdepth: 1
+   :caption: Government
+
+   government/index.rst
+
+.. toctree::
+   :maxdepth: 1
    :caption: Health
 
    health/index.rst
 
 .. toctree::
    :maxdepth: 1
-   :caption: Photography
-
-   photography/index.rst
-
-.. toctree::
-   :maxdepth: 1
    :caption: Finance
 
    finance/index.rst
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Photography
+
+   photography/index.rst
 
 .. toctree::
    :maxdepth: 1
