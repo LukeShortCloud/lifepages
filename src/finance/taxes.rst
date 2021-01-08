@@ -44,7 +44,7 @@ Married
 History
 -------
 
--  `Latest <https://github.com/ekultails/lifepages/commits/master/src/games/video.rst>`__
+-  `Latest <https://github.com/ekultails/lifepages/commits/master/src/finance/taxes.rst>`__
 
 Bibliography
 ------------
