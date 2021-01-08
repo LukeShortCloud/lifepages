@@ -11,35 +11,35 @@ Federal Income Tax
 
 All citizens are required to pay a federal income tax. There are different tax brackets based on the amount of income. Each tax bracket only applies to a specific chunk of the overall income. Taxes are slightly different based on if the filling is for a single person or a married couple. [1]
 
-2020:
+2021:
 
 Single
 
 .. csv-table::
-   :header: Salary Range, Taxable Amount, Percentage, Maximum Tax in Range, Maximum Tax Total
+   :header: Salary Range, Percentage, Taxable Amount, Maximum Tax in Range, Maximum Tax Total
    :widths: 20, 20, 20, 20, 20
 
-   0-9875, 9875, 10%, 987.50, 987.50
-   9876-40125, 30249.00, 12%, 3629.88, 4617.38
-   40126-85525, 45399, 22%, 9987.78, 14605.16
-   85526-163300, 77774, 24%, 18665.76, 33270.92
-   163301-207350, 44049, 32%, 14095.68, 47366.60
-   207351-518400, 108867.15, 35%, 38103.50, 85470.10
-   518401-∞, "", 37%, "", ""
+   0-9550, 10%, 9550.00, 955.00, 955.00
+   9951-40525, 12%, 30574.00, 3668.88, 4623.88
+   40526-86375, 22%, 45849.00, 10086.78, 14710.66
+   86376-164925, 24%, 78549.00, 18851.76, 33562.42
+   164926-209425, 32%, 44499.00, 14239.68, 47802.1
+   209426-523600, 35%, 314174.00, 109960.90, 157763
+   523601-∞, 37%, "", "", ""
 
 Married
 
 .. csv-table::
-   :header: Salary Range, Taxable Amount, Percentage, Maximum Tax in Range, Maximum Tax Total
+   :header: Salary Range, Percentage, Taxable Amount, Maximum Tax in Range, Maximum Tax Total
    :widths: 20, 20, 20, 20, 20
 
-   0-19750, 19750, 10%, 1975.00, 1975.00
-   19751-80250, 60499, 12%, 7259.88, 9234.88
-   80251-171050, 90799, 22%, 19975.78, 29210.66
-   171051-326600, 155549, 24%, 37331.76, 66542.42
-   326601-414700, 88099, 32%, 28191.68, 94734.10
-   414701-622050, 207349, 35%, 72572.15, 167306.25
-   622051-∞, "", 37%, "", ""
+   0-19900, 10%, 19900.00, 1990.00, 1990.00
+   19901-81050, 12%, 61149.00, 7337.88, 9327.88
+   81051-172750, 22%, 91699.00, 20173.78, 29501.66
+   172751-329850, 24%, 157099.00, 37703.76, 67205.42
+   329851-418850, 32%, 88999.00, 28479.68, 95685.10
+   418851-628300, 35%, 209449.00, 73307.15, 168992.25
+   628301-∞, 37%, "", "", ""
 
 History
 -------
@@ -49,4 +49,4 @@ History
 Bibliography
 ------------
 
-1. "2019-2020 Tax Brackets and Federal Income Tax Rates." NerdWallet. August 28, 2020. Accessed September 23, 2020. https://www.nerdwallet.com/article/taxes/federal-income-tax-brackets
+1. "2020-2021 Tax Brackets and Federal Income Tax Rates." NerdWallet. November 16, 2020. Accessed January 7, 2021. https://www.nerdwallet.com/article/taxes/federal-income-tax-brackets
