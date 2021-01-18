@@ -11,17 +11,22 @@ Character Creation
 
 These are general considerations for creating player and non-player characters.
 
-Minimal:
-
 -  Age: child, teen, adult, or elderly.
+-  Family tree: parents, spouse, and/or siblings.
 -  Height: short, average, or tall.
 -  Education level: dumb, average, or smart.
 -  `Personality traits <https://www.betterhelp.com/advice/personality/what-are-some-common-dd-personality-traits/>`__.
 -  Accent.
+-  Character class (pick one) [4]:
 
-Full:
+   -  Assassin = Stealthy and fast.
+   -  Entertainer = Musicians that provide moral support.
+   -  Healer = Heals teammates.
+   -  Ranger = Long-range weapons.
+   -  Soldier = Short-range weapons.
+   -  Tank = Lots of health.
+   -  Wizard = Magic.
 
--  Family tree: parents, spouse, and/or siblings.
 -  Background story:
 
    -  What is their goal in life?
@@ -85,3 +90,4 @@ Bibliography
 1. "EVERYTHING NPCS - MOTIVATION." Tribality. July 21, 2019. Accessed April 23, 2020. https://www.tribality.com/2019/07/21/everything-npcs-motivation/
 2. "Great GM: Making Maps on the Fly - Game Master Tips for your Tabletop RPG." How to be a Great Game Master. September 14, 2016. Accessed April 26, 2020. https://www.youtube.com/watch?v=mywK2kFP7lc
 3. "6 Methods For Making Dungeons More Intersting." Roleplaying Tips. 2020. Accessed April 26, 2020. https://www.roleplayingtips.com/rptn/rpt156-6-methods-making-dungeons-interesting/
+4. "Standard RPG Classes and Characters." Gameaboo Your adventure starts here. September 4, 2017. Accessed January 17, 2021. https://www.gameaboo.com/standard-rpg-classes-characters/
