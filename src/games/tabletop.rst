@@ -3,8 +3,8 @@ Tabletop
 
 .. contents:: Table of Contents
 
-Role-Playing Games
-------------------
+Tabletop Role-Playing Games (TTRPGs)
+------------------------------------
 
 Character Creation
 ~~~~~~~~~~~~~~~~~~
