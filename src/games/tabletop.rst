@@ -41,6 +41,20 @@ Villians:
 -  Motive [1]: envy, lazy, love, power, pride, or wrath.
 -  Obstacles: what is preventing the villian from reaching their goal?
 
+Non-Player Characters (NPCs)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Type of NPCs [5]:
+
+-  Minions/Monsters = Short lived and will never been seen or heard of again. Do not waste time on these characters.
+-  Guide = Takes players from one place to another. Creates suspense for what is ahead. They are experts in the local territory. Speed up long journeys.
+-  Advancement = Helps to reveal missing or misunderstood plot points and to add more plot information. There is always a cost to the player characters for the NPC such as friendship, money, a quest, etc.
+-  Rival = Not enemies. Friendly rivalry to motivate the player characters to better themselves.
+-  Mentor = The Game Master as a NPC. Never knows the answer. Indirectly guide the players.
+-  Long Term = A NPC that has been around for a while. They have emotions and care about what is going on.
+-  Support = Do minor simple tasks in the background so the player characters do not have to do it. Remind the player characters of the tasks that were done for them.
+-  Comic Reflection = Funny NPC that suggests bad ideas to steer the player characters in the right direction.
+
 Maps
 ~~~~
 
@@ -91,3 +105,4 @@ Bibliography
 2. "Great GM: Making Maps on the Fly - Game Master Tips for your Tabletop RPG." How to be a Great Game Master. September 14, 2016. Accessed April 26, 2020. https://www.youtube.com/watch?v=mywK2kFP7lc
 3. "6 Methods For Making Dungeons More Intersting." Roleplaying Tips. 2020. Accessed April 26, 2020. https://www.roleplayingtips.com/rptn/rpt156-6-methods-making-dungeons-interesting/
 4. "Standard RPG Classes and Characters." Gameaboo Your adventure starts here. September 4, 2017. Accessed January 17, 2021. https://www.gameaboo.com/standard-rpg-classes-characters/
+5. "The 7 NPCs You Will Only Ever Need - GM Tips." YouTube How to be a Great GM. October 2, 2020. Accessed January 18, 2020. https://www.youtube.com/watch?v=PDwOlY4ot8s
