@@ -6,43 +6,11 @@ Tabletop
 Tabletop Role-Playing Games (TTRPGs)
 ------------------------------------
 
-Character Creation
-~~~~~~~~~~~~~~~~~~
-
-These are general considerations for creating player and non-player characters.
-
--  Age: child, teen, adult, or elderly.
--  Family tree: parents, spouse, and/or siblings.
--  Height: short, average, or tall.
--  Education level: dumb, average, or smart.
--  `Personality traits <https://www.betterhelp.com/advice/personality/what-are-some-common-dd-personality-traits/>`__.
--  Accent.
--  Character class (pick one) [4]:
-
-   -  Assassin = Stealthy and fast.
-   -  Entertainer = Musicians that provide moral support.
-   -  Healer = Heals teammates.
-   -  Ranger = Long-range weapons.
-   -  Soldier = Short-range weapons.
-   -  Tank = Lots of health.
-   -  Wizard = Magic.
-
--  Background story:
-
-   -  What is their goal in life?
-   -  What faction are they aligned with?
-   -  Why did they pick their class/career?
-   -  Where have they lived?
-   -  What struggles have they had?
-   -  What are their hobbies?
-
-Villians:
-
--  Motive [1]: envy, lazy, love, power, pride, or wrath.
--  Obstacles: what is preventing the villian from reaching their goal?
+Game Master (GM)
+~~~~~~~~~~~~~~~~
 
 Non-Player Characters (NPCs)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Type of NPCs [5]:
 
@@ -55,11 +23,16 @@ Type of NPCs [5]:
 -  Support = Do minor simple tasks in the background so the player characters do not have to do it. Remind the player characters of the tasks that were done for them.
 -  Comic Reflection = Funny NPC that suggests bad ideas to steer the player characters in the right direction.
 
+Villians:
+
+-  Motive [1]: envy, lazy, love, power, pride, or wrath.
+-  Obstacles: what is preventing the villian from reaching their goal?
+
 Maps
-~~~~
+^^^^
 
 Interior
-^^^^^^^^
+''''''''
 
 Interior maps are used to showcase important buildings, dungeons, and/or ships that players can explore. It should lay out the rooms, corridors, and optionally the furnishing.
 
@@ -92,6 +65,39 @@ Free tools for drawing interior maps:
 -  `DJ's Dungeon Mapper <https://www.oldgames.sk/dungeon-mapper/mapper.php>`__
 -  `Mipui <https://www.mipui.net/app/>`__
 -  `RPG Inferno Map Editor <https://rpginferno.com/rpg-map-editor>`__
+
+Player Characters (PCs)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Character Creation
+^^^^^^^^^^^^^^^^^^
+
+These are general considerations for creating player and non-player characters.
+
+-  Age: child, teen, adult, or elderly.
+-  Family tree: parents, spouse, and/or siblings.
+-  Height: short, average, or tall.
+-  Education level: dumb, average, or smart.
+-  `Personality traits <https://www.betterhelp.com/advice/personality/what-are-some-common-dd-personality-traits/>`__.
+-  Accent.
+-  Character class (pick one) [4]:
+
+   -  Assassin = Stealthy and fast.
+   -  Entertainer = Musicians that provide moral support.
+   -  Healer = Heals teammates.
+   -  Ranger = Long-range weapons.
+   -  Soldier = Short-range weapons.
+   -  Tank = Lots of health.
+   -  Wizard = Magic.
+
+-  Background story:
+
+   -  What is their goal in life?
+   -  What faction are they aligned with?
+   -  Why did they pick their class/career?
+   -  Where have they lived?
+   -  What struggles have they had?
+   -  What are their hobbies?
 
 History
 -------
