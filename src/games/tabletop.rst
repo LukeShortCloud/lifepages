@@ -9,6 +9,22 @@ Tabletop Role-Playing Games (TTRPGs)
 Game Master (GM)
 ~~~~~~~~~~~~~~~~
 
+Planning
+^^^^^^^^
+
+Unexpected
+''''''''''
+
+No game will ever go exactly the way the game master anticipates because of the freedom player characters have. That is okay and part of the fun. Here are some tips on how to handle situations where the players do not follow the story that was originally planned. Focus on preparing these things separate to the main story. Even if they do not get used, they can be recycled and used for a future game session.
+
+-  Create side plots related to the main story.
+-  Create additional NPCs with a name, a basic background, some stats, and a story hook.
+-  Create additional encounters.
+-  Create a loot table full of possible rewards.
+-  Create simple maps of nearby locations. They can be filled in with more details later.
+
+[6]
+
 Non-Player Characters (NPCs)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -112,3 +128,4 @@ Bibliography
 3. "6 Methods For Making Dungeons More Intersting." Roleplaying Tips. 2020. Accessed April 26, 2020. https://www.roleplayingtips.com/rptn/rpt156-6-methods-making-dungeons-interesting/
 4. "Standard RPG Classes and Characters." Gameaboo Your adventure starts here. September 4, 2017. Accessed January 17, 2021. https://www.gameaboo.com/standard-rpg-classes-characters/
 5. "The 7 NPCs You Will Only Ever Need - GM Tips." YouTube How to be a Great GM. October 2, 2020. Accessed January 18, 2020. https://www.youtube.com/watch?v=PDwOlY4ot8s
+6. "Improv and the Unexpected (GM Tips w/ Matt Mercer)." YouTube Geek & Sundry. October 27, 2016. Accessed January 24, 2021. https://www.youtube.com/watch?v=rKU2e5Xrx1k
