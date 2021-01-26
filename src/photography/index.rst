@@ -2,4 +2,4 @@
    :maxdepth: 1
    :caption: Photography
 
-   printing.rst
+   printing

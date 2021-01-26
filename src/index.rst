@@ -7,34 +7,34 @@ Welcome to Life Pages!
    :maxdepth: 1
    :caption: Games
 
-   games/index.rst
+   games/index
 
 .. toctree::
    :maxdepth: 1
    :caption: Government
 
-   government/index.rst
+   government/index
 
 .. toctree::
    :maxdepth: 1
    :caption: Health
 
-   health/index.rst
+   health/index
 
 .. toctree::
    :maxdepth: 1
    :caption: Finance
 
-   finance/index.rst
+   finance/index
 
 .. toctree::
    :maxdepth: 1
    :caption: Photography
 
-   photography/index.rst
+   photography/index
 
 .. toctree::
    :maxdepth: 1
    :caption: Work
 
-   work/index.rst
+   work/index

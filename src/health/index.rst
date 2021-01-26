@@ -2,4 +2,4 @@
    :maxdepth: 1
    :caption: Health
 
-   diet.rst
+   diet

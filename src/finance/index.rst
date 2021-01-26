@@ -2,4 +2,4 @@
    :maxdepth: 1
    :caption: Finance
 
-   taxes.rst
+   taxes
