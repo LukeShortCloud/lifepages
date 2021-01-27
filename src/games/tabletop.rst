@@ -12,6 +12,17 @@ Game Master (GM)
 Planning
 ^^^^^^^^
 
+One Shot
+''''''''
+
+A one shot is a TTRPG game that is only ever played once. It has a beginning, middle, and an end. Determine the length of time for the session. At a minimum, allocate 1 hour. For a typical session, allocate 3 hours. The game master should keep track of the time and adjust the events (add, remove, or simplify them) to make sure the one shot does not go on for long. Ensure that the combat is quick and fun. It is okay to bend the game mechanics/rules in order to speed up the game.
+
+-  Beginning = 1 encounter = 25% time
+-  Middle = 2 encounters = 50% time
+-  End = 1 encounter = 25% time
+
+[7]
+
 Unexpected
 ''''''''''
 
@@ -129,3 +140,4 @@ Bibliography
 4. "Standard RPG Classes and Characters." Gameaboo Your adventure starts here. September 4, 2017. Accessed January 17, 2021. https://www.gameaboo.com/standard-rpg-classes-characters/
 5. "The 7 NPCs You Will Only Ever Need - GM Tips." YouTube How to be a Great GM. October 2, 2020. Accessed January 18, 2020. https://www.youtube.com/watch?v=PDwOlY4ot8s
 6. "Improv and the Unexpected (GM Tips w/ Matt Mercer)." YouTube Geek & Sundry. October 27, 2016. Accessed January 24, 2021. https://www.youtube.com/watch?v=rKU2e5Xrx1k
+7. "Great GM - How to run a rpg one shot session - Game Master Tips RPG." YouTube How to be a Great GM. February 22, 2017. Accessed January 26, 2021. https://www.youtube.com/watch?v=Ou-CGHCx71I
