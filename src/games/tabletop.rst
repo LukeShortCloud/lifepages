@@ -101,6 +101,7 @@ Character Creation
 
 These are general considerations for creating player and non-player characters.
 
+-  Gender: female, male, both, or neither.
 -  Age: child, teen, adult, or elderly.
 -  Family tree: parents, spouse, and/or siblings.
 -  Height: short, average, or tall.
