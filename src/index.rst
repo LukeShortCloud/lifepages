@@ -35,6 +35,12 @@ Welcome to Life Pages!
 
 .. toctree::
    :maxdepth: 1
+   :caption: Sales
+
+   sales/index
+
+.. toctree::
+   :maxdepth: 1
    :caption: Social
 
    social/index
