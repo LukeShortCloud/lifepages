@@ -29,6 +29,12 @@ Welcome to Life Pages!
 
 .. toctree::
    :maxdepth: 1
+   :caption: Mythology
+
+   mythology/index
+
+.. toctree::
+   :maxdepth: 1
    :caption: Photography
 
    photography/index
