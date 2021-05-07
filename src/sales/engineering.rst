@@ -11,6 +11,11 @@ Sales Engineering is a technical pre-sales role. The job involves showcasing the
 Case Studies
 ------------
 
+Human Resources
+~~~~~~~~~~~~~~~
+
+For every 7 to 15 servers, there is normally 1 System Administrator to manage them. [3]
+
 Infrastructure
 ~~~~~~~~~~~~~~
 
@@ -39,3 +44,4 @@ Bibliography
 
 1. "Physical Servers vs. Virtual Machines: Key Differences and Similarities." NAKIVO Blog. December 26, 2018. Accessed May 6, 2021. https://www.nakivo.com/blog/physical-servers-vs-virtual-machines-key-differences-similarities/
 2. "Using Containers to Reduce Public Cloud Costs." Densify Articles. Accessed May 6, 2021. https://www.densify.com/articles/public-cloud-containers-reduce-costs
+3. "Staffing by the numbers." Network World. July 19, 2004. Accessed May 6, 2021. https://www.networkworld.com/article/2323610/staffing-by-the-numbers.html
