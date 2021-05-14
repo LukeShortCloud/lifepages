@@ -25,7 +25,7 @@ Here are the average salaries for common technology related jobs in the United S
 History
 -------
 
--  `Latest <https://github.com/ekultails/lifepages/commits/master/src/computers/printing.rst>`__
+-  `Latest <https://github.com/ekultails/lifepages/commits/master/src/jobs/technical.rst>`__
 
 Bibliography
 ------------
