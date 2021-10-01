@@ -13,7 +13,8 @@ Book Recommendations
 
 1.  Mastering Technical Sales
 2.  Sales on Rails
-3.  Demonstrating to Win!: The Indispensable Guide for Demonstrating Complex Products
+3.  Great Demo!: How To Create And Execute Stunning Software Demonstrations
+4.  Demonstrating to Win!: The Indispensable Guide for Demonstrating Complex Products
 
 Case Studies
 ------------
