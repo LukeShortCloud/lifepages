@@ -16,6 +16,15 @@ Book Recommendations
 3.  Great Demo!: How To Create And Execute Stunning Software Demonstrations
 4.  Demonstrating to Win!: The Indispensable Guide for Demonstrating Complex Products
 
+Podcasts
+--------
+
+These are podcasts about being a sales engineer:
+
+-  `We The Sales Engineers <https://wethesalesengineers.com/podcasts/>`__
+-  `PreSales Podcast by PreSales Collective <https://www.presalescollective.com/podcast>`__
+-  `Two PreSales in a Pod <https://anchor.fm/presalesinapod>`__
+
 Case Studies
 ------------
 
