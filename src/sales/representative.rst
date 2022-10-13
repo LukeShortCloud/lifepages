@@ -11,14 +11,18 @@ Sales representatives are in charge of leading the sale of products and services
 Book Recommendations
 --------------------
 
-1.  Never Split the Difference
-2.  Challenger Sale
-3.  Getting to Yes
-4.  Getting More
-5.  The One Thing
-6.  Secrets of Closing the Sale
-7.  SPIN Selling
-8.  The New Solution Selling
+In order of highest recommendation to lowest:
+
+-  Never Split the Difference
+-  Challenger Sale
+-  New Sales. Simplified.
+-  Getting to Yes
+-  The Qualified Sales Leader
+-  Getting More
+-  The One Thing
+-  Secrets of Closing the Sale
+-  SPIN Selling
+-  The New Solution Selling
 
 History
 -------
