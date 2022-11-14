@@ -25,6 +25,19 @@ Sandbox
 Minecraft
 ~~~~~~~~~
 
+Java Versions
+^^^^^^^^^^^^^
+
+Each version of Minecraft only works with a specific version of Java. [1]
+
+.. csv-table::
+   :header: Minecraft, Java
+   :widths: 20, 20
+
+   18, 17
+   17, 16
+   16 or older, 8
+
 Server (Self-Hosted)
 ^^^^^^^^^^^^^^^^^^^^
 
@@ -46,3 +59,5 @@ History
 
 Bibliography
 ------------
+
+1. "Tutorials/Update Java. Minecraft Wiki. August 27, 2022. Accessed November 13, 2022. https://minecraft.fandom.com/wiki/Tutorials/Update_Java
