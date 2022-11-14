@@ -38,6 +38,13 @@ Each version of Minecraft only works with a specific version of Java. [1]
    17, 16
    16 or older, 8
 
+Resource Packs
+^^^^^^^^^^^^^^
+
+Resource packs used to be known as texture packs. They allow for more customization beyond textures and can include animations, fonts, sounds, and support for other languages. [2]
+
+The default texture size for Minecraft is 16x16 pixels. [3] The texture resolution size used by resource packs vary. 32-bit Java can only handle 64x64 textures. It is recommended to use a 64-bit installation of Java for bigger textures. [4]
+
 Server (Self-Hosted)
 ^^^^^^^^^^^^^^^^^^^^
 
@@ -61,3 +68,6 @@ Bibliography
 ------------
 
 1. "Tutorials/Update Java. Minecraft Wiki. August 27, 2022. Accessed November 13, 2022. https://minecraft.fandom.com/wiki/Tutorials/Update_Java
+2. "What is the difference between texture packs and resource packs in Minecraft?" Sportskeeda. August 2, 2021. Accessed November 13, 2022. https://www.sportskeeda.com/minecraft/minecraft-texture-packs-vs-resource-packs-what-s-difference
+3. "How to Make a Minecraft Texture Pack." Beebom. April 8, 2022. Accessed November 13, 2022. https://beebom.com/how-to-make-a-minecraft-texture-pack/
+4. "Best 64x or 128x?" Minecraft Forum. July 9, 2011. Accessed November 13, 2022. https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1231175-best-64x-or-128x
