@@ -62,6 +62,42 @@ Depending on the use-case of the server, different Minecraft servers are recomme
 Forge Mods
 ^^^^^^^^^^
 
+Galacticraft
+''''''''''''
+
+Rockets
+&&&&&&&
+
+A rocket is required to get to space. Starting off, all players can build a Tier 1 rocket which allows them to reach an Overworld/Earth space station and the moon. It is required to go to one of the destinations that is unlocked to find a dungeon that has schematics to build the next tier of rocket.
+
+Planets
+&&&&&&&
+
+Here are various schematics, items, and ores that can be found in Galacticraft related mods. The pressure level and radiation level only applies when the ExtraPlanets mod is installed. In that case, a space suit is required to protect against pressure. The higher the radiation, the higher tier space suit is required. [16]
+
+.. csv-table::
+   :header: Planet, Moon, Mod, Rocket Tier, Breathable Air, Corrosive Atmosphere, Pressure Level, Radiation Level, Galacticraft Ores, ExtraPlanets Ore, Galacticraft Dungeon Loot, ExtraPlanets Dungeon Loot
+   :widths: 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20
+
+   Overworld, "", None, 1, Yes, No, 0%, 0%, "Aluminum, Copper, Silicon, and Tin. [10]", "Lead. [11]", "", ""
+   Overworld, Moon, Galacticraft, 1, No, No, 100%, 35%, "Cheese and meteoric iron.", "", "Tier 2 rocket schematic and moon buggy schematic.", "Mars rover schematic."
+   Mars, "", Galacticraft, 2, No, No, 90%, 5%, "Desh.", "", "Tier 3 rocket schematic, astro miner schematic, and cargo rocket schematic.", ""
+   Mars, Deimos, ExtraPlanets, 2, No, No, 2%, 45%, "Lead.", "", "", ""
+   Mars, Phobos, ExtraPlanets, 2, No, No, 100%, 30%, "Lead.", "", "", ""
+   Asteroids, "", Galacticraft, 3, No, No, 100%, 6%, "Ilmenite (titanium).", "", "", ""
+   Venus, "", Galacticraft, 3, No, Yes, 2%, 45%, "", "Carbon.", "Shield controller.", "Venus rover schematic."
+   Mercury, "", ExtraPlanets, 3, No, No, 20%, 25%, "", "Carbon.", "", "Tier 4 rocket schematic and Geiger counter."
+   Ceres, "", ExtraPlanets, 4, No, No, 2%, 50%, "", "Uranium.", "", ""
+   Jupiter, "", ExtraPlanets, 4, No, Yes, 2%, 45%, "", "Nickel and plladium.", "", "Tier 5 rocket schematic."
+   Saturn, "", ExtraPlanets, 5, No, Yes, 100%, 30%, "", "Magnesium.", "", "Tier 6 rocket schematic."
+   Uranus [12], "", ExtraPlanets, 6, No, Yes, 100%, 35%, "", "Crystal stone.", "", "Tier 7 rocket schematic."
+   Neptune, "", ExtraPlanets, 7, No, Yes, 100%, 42%, "", "Zinc.", "", "Tier 8 rocket schematic."
+   Pluto, "", ExtraPlanets, 8, No, No, 8%, 30%, "", "Tungsten.", "", "Tier 9 rocket schematic."
+   Eris, "", ExtraPlanets, 9, No, No, 2%, 50%, "", "Dark iron.", "", "Tier 10 rocket schematic and tier 10 electric rocket schematic."
+   Kepler 22b, "", ExtraPlanets, 10, Yes, No, 0%, 0%, "", "Platinum.", "", ""
+
+[13][14][15]
+
 Mekanism
 ''''''''
 
@@ -198,3 +234,10 @@ Bibliography
 7. "Modded Minecraft Tutorial : Brine, Evaporation Tank "NO solar & Self Powered"." YouTube K1 Inc. February 19, 2019. Accessed December 11, 2022. https://www.youtube.com/watch?v=0UgEmRco_Lc
 8. "Minecraft Mekanism Tier 3 Ore Processing (4x Ingots per Ore) Tutorial." YouTube UrbanCowGaming. December 19, 2020. Accessed December 11, 2022. https://www.youtube.com/watch?v=dpYvPcIyQKk
 9. "Ore Processing." Official Mekanism Wiki. Accessed December 11, 2022. https://wiki.aidancbrady.com/wiki/Ore_Processing
+10. "Ores." Galcticraft Wiki. November 7, 2020. Accessed December 12, 2022. https://galacticraft.fandom.com/wiki/Ores
+11. "Why does Extra Planets have its own lead?" Reddit r/feedthebeast. June 28, 2019. Accessed December 12, 2022. https://www.reddit.com/r/feedthebeast/comments/c6d0ou/why_does_extra_planets_have_its_own_lead/
+12. "Uranus (Extra Planets)." Feed The Beast Wiki. January 8, 2018. Accessed December 13, 2022. https://ftbwiki.org/Uranus_(Extra_Planets)
+13. "Galacticraft." Galacticraft Wiki. Accessed December 13, 2022. https://wiki.micdoodle8.com/wiki/Galacticraft
+14. "ExtraPlanets." CurseForge. November 22, 2022. Accessed December 13, 2022. https://www.curseforge.com/minecraft/mc-mods/extraplanets
+15. "Extra Planets Tips & Secrets." Galacticraft Forum. January 2, 2018. Accessed December 13, 2022. https://forum.micdoodle8.com/index.php?threads/extra-planets-tips-secrets.6837/
+16. "Tier 1 Space Suit Chestplate." Feed The Beat Wiki. May 7, 2020. Accessed December 13, 2022. https://ftbwiki.org/Tier_1_Space_Suit_Chestplate
