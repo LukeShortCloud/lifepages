@@ -86,7 +86,7 @@ Here are various schematics, items, and ores that can be found in Galacticraft r
    Mars, Phobos, ExtraPlanets, 2, No, No, 100%, 30%, "Lead.", "", "", ""
    Asteroids, "", Galacticraft, 3, No, No, 100%, 6%, "Ilmenite (titanium).", "", "", ""
    Venus, "", Galacticraft, 3, No, Yes, 2%, 45%, "", "Carbon.", "Shield controller.", "Venus rover schematic."
-   Mercury, "", ExtraPlanets, 3, No, No, 20%, 25%, "", "Carbon.", "", "Tier 4 rocket schematic and Geiger counter."
+   Mercury, "", ExtraPlanets, 3, No, No, 20%, 25%, "Block of desh and solid meteoric iron.", "Carbon and mercury.", "", "Tier 4 rocket schematic and Geiger counter."
    Ceres, "", ExtraPlanets, 4, No, No, 2%, 50%, "", "Uranium.", "", ""
    Jupiter, "", ExtraPlanets, 4, No, Yes, 2%, 45%, "", "Nickel and plladium.", "", "Tier 5 rocket schematic."
    Saturn, "", ExtraPlanets, 5, No, Yes, 100%, 30%, "", "Magnesium.", "", "Tier 6 rocket schematic."
