@@ -70,31 +70,42 @@ Rockets
 
 A rocket is required to get to space. Starting off, all players can build a Tier 1 rocket which allows them to reach an Overworld/Earth space station and the moon. It is required to go to one of the destinations that is unlocked to find a dungeon that has schematics to build the next tier of rocket.
 
+Thermal Padding
+&&&&&&&&&&&&&&&
+
+Thermal padding is provided to protect against extreme hot and cold temperatures. The first two tiers of thermal padding are provided by the Galacticraft mod. Tiers 3 through 5 are provided by ExtraPlanets. The naming is not consistent between the two so here is a guide to understand what to craft for each tier:
+
+-  Tier 1 = Thermal Padding [Helm|Chestpiece|Leggings|Boots]
+-  Tier 2 = Isothermal [Helm|Chestpiece|Leggings|Boots]
+-  Tier 3 = Tier 3 Thermal Padding [Helm|Chestpiece|Leggings|Boots]
+-  Tier 4 = Tier 4 Thermal Padding [Helm|Chestpiece|Leggings|Boots]
+-  Tier 5 = Tier 5 Thermal Padding [Helm|Chestpiece|Leggings|Boots]
+
 Planets
 &&&&&&&
 
 Here are various schematics, items, and ores that can be found in Galacticraft related mods. The pressure level and radiation level only applies when the ExtraPlanets mod is installed. In that case, a space suit is required to protect against pressure. The higher the radiation, the higher tier space suit is required. [16]
 
 .. csv-table::
-   :header: Planet, Moon, Mod, Rocket Tier, Breathable Air, Corrosive Atmosphere, Pressure Level, Radiation Level, Galacticraft Ores, ExtraPlanets Ore, Galacticraft Dungeon Loot, ExtraPlanets Dungeon Loot
-   :widths: 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20
+   :header: Planet, Moon, Mod, Rocket Tier, Thermal Padding Tier, Breathable Air, Corrosive Atmosphere, Pressure Level, Radiation Level, Galacticraft Ores, ExtraPlanets Ore, Galacticraft Dungeon Loot, ExtraPlanets Dungeon Loot
+   :widths: 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20
 
-   Overworld, "", None, 1, Yes, No, 0%, 0%, "Aluminum, Copper, Silicon, and Tin. [10]", "Lead. [11]", "", ""
-   Overworld, Moon, Galacticraft, 1, No, No, 100%, 35%, "Cheese and meteoric iron.", "", "Tier 2 rocket schematic and moon buggy schematic.", "Mars rover schematic."
-   Mars, "", Galacticraft, 2, No, No, 90%, 5%, "Desh.", "", "Tier 3 rocket schematic, astro miner schematic, and cargo rocket schematic.", ""
-   Mars, Deimos, ExtraPlanets, 2, No, No, 2%, 45%, "Lead.", "", "", ""
-   Mars, Phobos, ExtraPlanets, 2, No, No, 100%, 30%, "Lead.", "", "", ""
-   Asteroids, "", Galacticraft, 3, No, No, 100%, 6%, "Ilmenite (titanium).", "", "", ""
-   Venus, "", Galacticraft, 3, No, Yes, 2%, 45%, "", "Carbon.", "Shield controller.", "Venus rover schematic."
-   Mercury, "", ExtraPlanets, 3, No, No, 20%, 25%, "Block of desh and solid meteoric iron.", "Carbon and mercury.", "", "Tier 4 rocket schematic and Geiger counter."
-   Ceres, "", ExtraPlanets, 4, No, No, 2%, 50%, "", "Uranium.", "", ""
-   Jupiter, "", ExtraPlanets, 4, No, Yes, 2%, 45%, "", "Nickel and plladium.", "", "Tier 5 rocket schematic."
-   Saturn, "", ExtraPlanets, 5, No, Yes, 100%, 30%, "", "Magnesium.", "", "Tier 6 rocket schematic."
-   Uranus [12], "", ExtraPlanets, 6, No, Yes, 100%, 35%, "", "Crystal stone.", "", "Tier 7 rocket schematic."
-   Neptune, "", ExtraPlanets, 7, No, Yes, 100%, 42%, "", "Zinc.", "", "Tier 8 rocket schematic."
-   Pluto, "", ExtraPlanets, 8, No, No, 8%, 30%, "", "Tungsten.", "", "Tier 9 rocket schematic."
-   Eris, "", ExtraPlanets, 9, No, No, 2%, 50%, "", "Dark iron.", "", "Tier 10 rocket schematic and tier 10 electric rocket schematic."
-   Kepler 22b, "", ExtraPlanets, 10, Yes, No, 0%, 0%, "", "Platinum.", "", ""
+   Overworld, "", None, 1, None, Yes, No, 0%, 0%, "Aluminum, Copper, Silicon, and Tin. [10]", "Lead. [11]", "", ""
+   Overworld, Moon, Galacticraft, 1, None, No, No, 100%, 35%, "Cheese and meteoric iron.", "", "Tier 2 rocket schematic and moon buggy schematic.", "Mars rover schematic."
+   Mars, "", Galacticraft, 2, 1, No, No, 90%, 5%, "Desh.", "", "Tier 3 rocket schematic, astro miner schematic, and cargo rocket schematic.", ""
+   Mars, Deimos, ExtraPlanets, 2, 1, No, No, 2%, 45%, "Lead.", "", "", ""
+   Mars, Phobos, ExtraPlanets, 2, 1, No, No, 100%, 30%, "Lead.", "", "", ""
+   Asteroids, "", Galacticraft, 3, 1, No, No, 100%, 6%, "Ilmenite (titanium).", "", "", ""
+   Venus, "", Galacticraft, 3, 2, No, Yes, 2%, 45%, "", "Carbon.", "Shield controller.", "Venus rover schematic."
+   Mercury, "", ExtraPlanets, 3, 3, No, No, 20%, 25%, "Block of desh and solid meteoric iron.", "Carbon and mercury.", "", "Tier 4 rocket schematic and Geiger counter."
+   Ceres, "", ExtraPlanets, 4, 1, No, No, 2%, 50%, "", "Uranium.", "", ""
+   Jupiter, "", ExtraPlanets, 4, 4, No, Yes, 2%, 45%, "", "Nickel and plladium.", "", "Tier 5 rocket schematic."
+   Saturn, "", ExtraPlanets, 5, 4, No, Yes, 100%, 30%, "", "Magnesium.", "", "Tier 6 rocket schematic."
+   Uranus [12], "", ExtraPlanets, 6, 5, No, Yes, 100%, 35%, "", "Crystal stone.", "", "Tier 7 rocket schematic."
+   Neptune, "", ExtraPlanets, 7, 5, No, Yes, 100%, 42%, "", "Zinc.", "", "Tier 8 rocket schematic."
+   Pluto, "", ExtraPlanets, 8, 5, No, No, 8%, 30%, "", "Tungsten.", "", "Tier 9 rocket schematic."
+   Eris, "", ExtraPlanets, 9, 5, No, No, 2%, 50%, "", "Dark iron.", "", "Tier 10 rocket schematic and tier 10 electric rocket schematic."
+   Kepler 22b, "", ExtraPlanets, 10, None, Yes, No, 0%, 0%, "", "Platinum.", "", ""
 
 [13][14][15]
 
