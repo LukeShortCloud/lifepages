@@ -228,6 +228,18 @@ Increase Ore Processing Yields
 -  This is the highest tier of ore processing in Mekanism. [9]
 -  Estimated time to create from scratch: 5 hours.
 
+Obsidian Tools
+&&&&&&&&&&&&&&
+
+Obsidian is required to build the most advanced machinery and tools offered by Mekanism. Here are the steps to create various Obsidian items including Obsidian Ingots. [17]
+
+-  Create Obsidian Dust by using Obsidian in an Enrichment Chamber.
+-  Create Refined Obsidian Dust by using a Metallurgic Infuser and infusing Obsidian Dust with Compressed Diamond.
+
+    -  First create Compressed Diamond by using a Diamond in an Enrichment Chamber. It will provide more Diamond resources in the Metallurgic Infuser than just using a standard Diamond.
+
+-  Create Obsidian Ingot by using an Osmium Compressor with Refined Obsidian Dust and an Osmium Ingot.
+
 History
 -------
 
@@ -252,3 +264,4 @@ Bibliography
 14. "ExtraPlanets." CurseForge. November 22, 2022. Accessed December 13, 2022. https://www.curseforge.com/minecraft/mc-mods/extraplanets
 15. "Extra Planets Tips & Secrets." Galacticraft Forum. January 2, 2018. Accessed December 13, 2022. https://forum.micdoodle8.com/index.php?threads/extra-planets-tips-secrets.6837/
 16. "Tier 1 Space Suit Chestplate." Feed The Beat Wiki. May 7, 2020. Accessed December 13, 2022. https://ftbwiki.org/Tier_1_Space_Suit_Chestplate
+17. "Refined Obsidian Ingot." Official Mekanism Wiki. Accessed April 22, 2023. https://wiki.aidancbrady.com/wiki/Refined_Obsidian_Ingot
