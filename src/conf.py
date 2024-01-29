@@ -49,7 +49,7 @@ master_doc = 'index'
 # General information about the project.
 project = 'Life Pages'
 # This will render out a sentence that starts with "Copyright None"
-copyright = 'None, Copyleft 2020, Luke Short. Documents licensed under GFDLv1.3'
+copyright = 'None, Copyleft 2024, Luke Short. Documents licensed under GFDLv1.3'
 author = 'Luke Short'
 
 # The version info for the project you're documenting, acts as replacement for
