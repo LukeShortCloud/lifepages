@@ -68,7 +68,18 @@ Galacticraft
 Rockets
 &&&&&&&
 
-A rocket is required to get to space. Starting off, all players can build a Tier 1 rocket which allows them to reach an Overworld/Earth space station and the moon. It is required to go to one of the destinations that is unlocked to find a dungeon that has schematics to build the next tier of rocket.
+A rocket is required to get to space. Starting off, all players can build a Tier 1 rocket which allows them to reach an Overworld (Earth) space station and the moon. It is required to go to one of the destinations that is unlocked to find a dungeon that has schematics to build the next tier of rocket.
+
+Each tier of rocket requires a specific launch pad to be placed on for launch. All of them can be fueled by the Fuel Loader except for the Powered Rocket Launch Pads which require the use of a Vehicle Charger. [18]
+
+.. csv-table::
+   :header: Rocket Tier, Launch Pad Tier, Size
+   :widths: 20, 20, 20
+
+   Tier 1-3 Rocket, Rocket Launch Pad, 3x3
+   Tier 4-8 Rocket, Tier 2 Rocket Launch Pad, 5x5
+   Tier 9-10 Rocket, Tier 3 Rocket Launch Pad, 5x5
+   Tier 10 Electric Rocket, Powered Rocket Launch Pad, 5x5
 
 Thermal Padding
 &&&&&&&&&&&&&&&
@@ -265,3 +276,4 @@ Bibliography
 15. "Extra Planets Tips & Secrets." Galacticraft Forum. January 2, 2018. Accessed December 13, 2022. https://forum.micdoodle8.com/index.php?threads/extra-planets-tips-secrets.6837/
 16. "Tier 1 Space Suit Chestplate." Feed The Beat Wiki. May 7, 2020. Accessed December 13, 2022. https://ftbwiki.org/Tier_1_Space_Suit_Chestplate
 17. "Refined Obsidian Ingot." Official Mekanism Wiki. Accessed April 22, 2023. https://wiki.aidancbrady.com/wiki/Refined_Obsidian_Ingot
+18. "Tier 10 Electric Rocket won't take off #3237." GitHub DarkPacks/SevTech-Ages. October 14, 2018. Accessed January 28, 2024. https://github.com/DarkPacks/SevTech-Ages/issues/3237
