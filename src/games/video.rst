@@ -98,7 +98,7 @@ Planets
 Here are various schematics, items, and ores that can be found in Galacticraft related mods. The pressure level and radiation level only applies when the ExtraPlanets mod is installed. In that case, a space suit is required to protect against pressure. The higher the radiation, the higher tier space suit is required. [16]
 
 .. csv-table::
-   :header: Planet, Moon, Mod, Rocket Tier, Thermal Padding Tier, Breathable Air, Corrosive Atmosphere, Pressure Level, Radiation Level, Galacticraft Ores, ExtraPlanets Ore, Galacticraft Dungeon Loot, ExtraPlanets Dungeon Loot
+   :header: Planet, Moon, Mod, Rocket Tier, Thermal Padding Tier, Breathable Air, Corrosive Atmosphere, Pressure Level, Radiation Level, Galacticraft Ores and Items, ExtraPlanets Ores and Items, Galacticraft Dungeon Loot, ExtraPlanets Dungeon Loot
    :widths: 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20
 
    Overworld, "", None, 1, None, Yes, No, 0%, 0%, "Aluminum, Copper, Silicon, and Tin. [10]", "Lead. [11]", "", ""
@@ -111,7 +111,7 @@ Here are various schematics, items, and ores that can be found in Galacticraft r
    Mercury, "", ExtraPlanets, 3, 3, No, No, 20%, 25%, "Block of desh and solid meteoric iron.", "Carbon and mercury.", "", "Tier 4 rocket schematic and Geiger counter."
    Ceres, "", ExtraPlanets, 4, 1, No, No, 2%, 50%, "", "Uranium.", "", ""
    Jupiter, "", ExtraPlanets, 4, 4, No, Yes, 2%, 45%, "", "Nickel and plladium.", "", "Tier 5 rocket schematic."
-   Saturn, "", ExtraPlanets, 5, 4, No, Yes, 100%, 30%, "", "Magnesium.", "", "Tier 6 rocket schematic."
+   Saturn, "", ExtraPlanets, 5, 4, No, Yes, 100%, 30%, "", "Magnesium and nuclear bomb.", "", "Tier 6 rocket schematic."
    Uranus [12], "", ExtraPlanets, 6, 5, No, Yes, 100%, 35%, "", "Crystal stone.", "", "Tier 7 rocket schematic."
    Neptune, "", ExtraPlanets, 7, 5, No, Yes, 100%, 42%, "", "Zinc.", "", "Tier 8 rocket schematic."
    Pluto, "", ExtraPlanets, 8, 5, No, No, 8%, 30%, "", "Tungsten.", "", "Tier 9 rocket schematic."
