@@ -28,15 +28,15 @@ Minecraft
 Java Versions
 ^^^^^^^^^^^^^
 
-Each version of Minecraft only works with a specific version of Java. [1]
+Each version of Minecraft only works with a specific version of Java. [1][19]
 
 .. csv-table::
    :header: Minecraft, Java
    :widths: 20, 20
 
-   18, 17
-   17, 16
-   16 or older, 8
+   1.18 and newer, 17
+   1.8-1.17, 8
+   1.7 and older, 7
 
 Resource Packs
 ^^^^^^^^^^^^^^
@@ -259,7 +259,7 @@ History
 Bibliography
 ------------
 
-1. "Tutorials/Update Java. Minecraft Wiki. August 27, 2022. Accessed November 13, 2022. https://minecraft.fandom.com/wiki/Tutorials/Update_Java
+1. "Minecraft: Java Edition Installation Issues FAQ." Minecraft Help. Accessed January 28, 2024. https://help.minecraft.net/hc/en-us/articles/4409225939853-Minecraft-Java-Edition-Installation-Issues-FAQ
 2. "What is the difference between texture packs and resource packs in Minecraft?" Sportskeeda. August 2, 2021. Accessed November 13, 2022. https://www.sportskeeda.com/minecraft/minecraft-texture-packs-vs-resource-packs-what-s-difference
 3. "How to Make a Minecraft Texture Pack." Beebom. April 8, 2022. Accessed November 13, 2022. https://beebom.com/how-to-make-a-minecraft-texture-pack/
 4. "Best 64x or 128x?" Minecraft Forum. July 9, 2011. Accessed November 13, 2022. https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1231175-best-64x-or-128x
@@ -277,3 +277,4 @@ Bibliography
 16. "Tier 1 Space Suit Chestplate." Feed The Beat Wiki. May 7, 2020. Accessed December 13, 2022. https://ftbwiki.org/Tier_1_Space_Suit_Chestplate
 17. "Refined Obsidian Ingot." Official Mekanism Wiki. Accessed April 22, 2023. https://wiki.aidancbrady.com/wiki/Refined_Obsidian_Ingot
 18. "Tier 10 Electric Rocket won't take off #3237." GitHub DarkPacks/SevTech-Ages. October 14, 2018. Accessed January 28, 2024. https://github.com/DarkPacks/SevTech-Ages/issues/3237
+19. "Tutorials/Galacticraft Installation Guide." Galacticraft Wiki. Accessed January 28, 2024. https://wiki.micdoodle8.com/wiki/Tutorials/Galacticraft_Installation_Guide
