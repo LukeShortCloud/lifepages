@@ -28,15 +28,16 @@ Minecraft
 Java Versions
 ^^^^^^^^^^^^^
 
-Each version of Minecraft only works with a specific version of Java. [1][19]
+Each version of Minecraft only works with a specific version of Java. [1][19][20]
 
 .. csv-table::
-   :header: Minecraft, Java
-   :widths: 20, 20
+   :header: Minecraft, Java, 64-bit and/or 32-bit
+   :widths: 20, 20, 20
 
-   1.18 and newer, 17
-   1.8-1.17, 8
-   1.7 and older, 7
+   1.20.5 and newer, 21, 64-bit only
+   1.18.0 - 1.20.4, 17, 64-bit or 32-bit
+   1.8 - 1.17, 8, 64-bit or 32-bit
+   1.7 and older, 7, 64-bit or 32-bit
 
 Resource Packs
 ^^^^^^^^^^^^^^
@@ -278,3 +279,4 @@ Bibliography
 17. "Refined Obsidian Ingot." Official Mekanism Wiki. Accessed April 22, 2023. https://wiki.aidancbrady.com/wiki/Refined_Obsidian_Ingot
 18. "Tier 10 Electric Rocket won't take off #3237." GitHub DarkPacks/SevTech-Ages. October 14, 2018. Accessed January 28, 2024. https://github.com/DarkPacks/SevTech-Ages/issues/3237
 19. "Tutorials/Galacticraft Installation Guide." Galacticraft Wiki. Accessed January 28, 2024. https://wiki.micdoodle8.com/wiki/Tutorials/Galacticraft_Installation_Guide
+20. "MINECRAFT JAVA EDITION 1.20.5." Minecraft. April 23, 2024. https://www.minecraft.net/en-us/article/minecraft-java-edition-1-20-5
