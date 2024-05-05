@@ -279,4 +279,4 @@ Bibliography
 17. "Refined Obsidian Ingot." Official Mekanism Wiki. Accessed April 22, 2023. https://wiki.aidancbrady.com/wiki/Refined_Obsidian_Ingot
 18. "Tier 10 Electric Rocket won't take off #3237." GitHub DarkPacks/SevTech-Ages. October 14, 2018. Accessed January 28, 2024. https://github.com/DarkPacks/SevTech-Ages/issues/3237
 19. "Tutorials/Galacticraft Installation Guide." Galacticraft Wiki. Accessed January 28, 2024. https://wiki.micdoodle8.com/wiki/Tutorials/Galacticraft_Installation_Guide
-20. "MINECRAFT JAVA EDITION 1.20.5." Minecraft. April 23, 2024. https://www.minecraft.net/en-us/article/minecraft-java-edition-1-20-5
+20. "MINECRAFT JAVA EDITION 1.20.5." Minecraft. April 23, 2024. Accessed May 5, 2024. https://www.minecraft.net/en-us/article/minecraft-java-edition-1-20-5
